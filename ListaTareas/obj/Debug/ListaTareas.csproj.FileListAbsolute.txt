@@ -1,0 +1,13 @@
+C:\Users\guill\source\repos\ListaTareas\ListaTareas\bin\Debug\ListaTareas.exe.config
+C:\Users\guill\source\repos\ListaTareas\ListaTareas\bin\Debug\ListaTareas.exe
+C:\Users\guill\source\repos\ListaTareas\ListaTareas\bin\Debug\ListaTareas.pdb
+C:\Users\guill\source\repos\ListaTareas\ListaTareas\obj\Debug\ListaTareas.csprojAssemblyReference.cache
+C:\Users\guill\source\repos\ListaTareas\ListaTareas\obj\Debug\ListaTareas.Form.resources
+C:\Users\guill\source\repos\ListaTareas\ListaTareas\obj\Debug\ListaTareas.Properties.Resources.resources
+C:\Users\guill\source\repos\ListaTareas\ListaTareas\obj\Debug\ListaTareas.csproj.GenerateResource.cache
+C:\Users\guill\source\repos\ListaTareas\ListaTareas\obj\Debug\ListaTareas.csproj.CoreCompileInputs.cache
+C:\Users\guill\source\repos\ListaTareas\ListaTareas\obj\Debug\ListaTareas.exe
+C:\Users\guill\source\repos\ListaTareas\ListaTareas\obj\Debug\ListaTareas.pdb
+C:\Users\guill\source\repos\ListaTareas\ListaTareas\bin\Debug\en-US\ListaTareas.resources.dll
+C:\Users\guill\source\repos\ListaTareas\ListaTareas\obj\Debug\ListaTareas.Form.en-US.resources
+C:\Users\guill\source\repos\ListaTareas\ListaTareas\obj\Debug\en-US\ListaTareas.resources.dll
